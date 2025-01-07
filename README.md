@@ -1,1 +1,1 @@
-# coding-project-template
+Final Project: Paradise Nursery Shopping Application
